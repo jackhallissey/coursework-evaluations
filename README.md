@@ -1,4 +1,4 @@
-Coursework for CS2516 (Algorithms and Data Structures II) and CS3204 (Cloud Infrastructure and Services).
+Code and reports for evaluations completed for the modules CS2516 (Algorithms and Data Structures II) and CS3204 (Cloud Infrastructure and Services).
 
 # Algorithms and Data Structures
 
